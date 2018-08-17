@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImagePickerLikeWhatsApp</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="licence">Licence No.</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="complete">Registration Complete</string>
+    <string name="profile">User Profile</string>
+    <string name="congratulation">Congratulations</string>
+    <string name="profile_done">Your Profile setup is complete</string>
+    <string name="exit_app">Exit App</string>
+</resources>
