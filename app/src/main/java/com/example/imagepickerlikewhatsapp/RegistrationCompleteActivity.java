@@ -27,7 +27,7 @@ public class RegistrationCompleteActivity extends AppCompatActivity {
             actionBar.setDisplayHomeAsUpEnabled(false);
             actionBar.setDisplayShowTitleEnabled(false);
             toolbarTitle.setText(R.string.complete);
-            }
+        }
     }
 
     @OnClick(R.id.exit)

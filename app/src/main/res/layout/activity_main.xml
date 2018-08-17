@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent">
-    <include layout="@layout/common_toolbar_view" android:id="@+id/toolbar" />
+    <include layout="@layout/common_toolbar_view"
+        android:id="@+id/toolbar" />
     <TextView
         android:padding="10dp"
         android:text="@string/profile"
@@ -148,3 +149,4 @@
 
 
 </LinearLayout>
+

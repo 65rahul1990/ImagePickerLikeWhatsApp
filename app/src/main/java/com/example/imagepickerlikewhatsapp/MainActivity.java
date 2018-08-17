@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
             toolbarTitle.setText(R.string.registration);
         }
 
+
     }
 
     @Override
